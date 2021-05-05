@@ -15,6 +15,7 @@ public class EnemyFSM : MonoBehaviour
     public float FireRate;
     float lastShootTime = 0;
     Animator animator;
+    public GameObject shootPoint;
     private void Awake()
     {
         baseTransform = GameObject.Find("PlayerBase").transform;
@@ -133,7 +134,7 @@ public class EnemyFSM : MonoBehaviour
                 return;
 
             lastShootTime = Time.time;
-            Instantiate(Bullet, transform.position, transform.rotation);
+            Instantiate(Bullet, shootPoint.transform.position, shootPoint.transform.rotation);
 
         }
     }

@@ -4935,7 +4935,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2086
+  m_Name: pb_Mesh-35160
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -7828,7 +7828,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b2864464e9269e842aac8dcc9a329bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletAmount: 20
+  bulletAmount: 10000
   bulletPrefab: {fileID: 5843998019735223184, guid: b5c44e81a034fa5499d0bc9f443d2e79, type: 3}
   shootPoint: {fileID: 272029837}
   shootSound: {fileID: 95530277}
@@ -8310,7 +8310,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!320 &707682050
 PlayableDirector:
   m_ObjectHideFlags: 0
@@ -10004,7 +10004,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1588051744}
-  m_LocalRotation: {x: 0.17842482, y: -0.000000008465139, z: 0.0000000015350226, w: 0.98395354}
+  m_LocalRotation: {x: 0.1784248, y: 0.000000008465141, z: -0.0000000015350229, w: 0.98395354}
   m_LocalPosition: {x: 106.53012, y: 56.629, z: 82.71704}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -10489,7 +10489,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1763012629}
-  m_LocalRotation: {x: 0.17842482, y: -0.000000008465139, z: 0.0000000015350226, w: 0.98395354}
+  m_LocalRotation: {x: 0.1784248, y: 0.000000008465141, z: -0.0000000015350229, w: 0.98395354}
   m_LocalPosition: {x: 106.53012, y: 56.629, z: 82.71704}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -10972,7 +10972,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2066340132}
-  m_LocalRotation: {x: 0.17842482, y: -0.000000008465139, z: 0.0000000015350226, w: 0.98395354}
+  m_LocalRotation: {x: 0.1784248, y: 0.000000008465141, z: -0.0000000015350229, w: 0.98395354}
   m_LocalPosition: {x: 106.53012, y: 56.629, z: 82.71704}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
