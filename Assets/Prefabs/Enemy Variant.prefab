@@ -194,7 +194,7 @@ MonoBehaviour:
   sightSensor: {fileID: 3709620176935329601}
   baseAttackDistance: 1
   playerAttackDistance: 5
-  Bullet: {fileID: 5843998019735223184, guid: b5c44e81a034fa5499d0bc9f443d2e79, type: 3}
+  Bullet: {fileID: 3753135959760724524, guid: cb1edd03310443241bd4f83bb88c1ba6, type: 3}
   FireRate: 0.1
   shootPoint: {fileID: 1483406096}
   currentState: 3
@@ -951,6 +951,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 67bca27f4ce986447ba1f9d4c795a365, type: 2}
+    - target: {fileID: 13700000, guid: a67db89bdee18f241927d32f2379ded1, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c39db265ea1794f4c9906fe3fb906934, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a67db89bdee18f241927d32f2379ded1, type: 3}
 --- !u!1 &1946920237005004568 stripped
